@@ -19,7 +19,7 @@ class SearchBox extends Component {
 			<div className="input-group input-group-sm mb-3">
 				<input
 					type="search"
-					placeholder="Search monsters. . ."
+					placeholder="Search monsters by name. . ."
 					className="form-control"
 					onChange={onChangeHandler}
 				/>
